@@ -27,7 +27,7 @@ class App extends Component {
               <Text className = "IntroductionText">Previously, I worked on Power Management and Brokering at <a href = "https://www.citrix.com/products/citrix-virtual-apps-and-desktops/"><SiCitrix style={{fontSize: '24px'}}/></a>.<br/></Text>
               <Text className = "IntroductionText">Graduated with a Summa Cum Laude in Computer Science from the <mark style={{background: '#0064B1'}}><a href = "https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse">University of Texas at Arlington</a></mark>.<br/></Text>
               <Text className = "IntroductionText">I grew up in different parts of <mark style={{background: '#B3E3EE'}}><a href = "https://en.wikipedia.org/wiki/Coastal_India" style={{color: '#2255A4'}}>Coastal India</a></mark>.<br/></Text>
-              <Text className = "IntroductionText"><mark style={{background:'#B3995D'}}><a href = "https://www.youtube.com/watch?v=ze82XMsSgyw" style={{color: '#AA0000'}}>San Francisco 49ers</a></mark>,<mark style={{background: '#C70101'}}><a href = "https://youtu.be/UkhMNryOUSQ">Manchester United</a></mark>, <mark style={{background: '#00529F'}}><a href = "https://youtu.be/yWVrolNQ4RU">Real Madrid</a></mark>, and <mark style={{background: '#006bb6'}}><a href = "https://youtu.be/bhtpppMxfQs" style={{color: '#fdb927'}}>Golden State Warriors</a></mark> fan.<br/></Text>
+              <Text className = "IntroductionText"><mark style={{background:'#B3995D'}}><a href = "https://www.youtube.com/watch?v=ze82XMsSgyw" style={{color: '#AA0000'}}>San Francisco 49ers</a></mark>, <mark style={{background: '#C70101'}}><a href = "https://youtu.be/UkhMNryOUSQ">Manchester United</a></mark>, <mark style={{background: '#00529F'}}><a href = "https://youtu.be/yWVrolNQ4RU">Real Madrid</a></mark>, and <mark style={{background: '#006bb6'}}><a href = "https://youtu.be/bhtpppMxfQs" style={{color: '#fdb927'}}>Golden State Warriors</a></mark> fan.<br/></Text>
             </div>
             <div key = {2}>
               <br/><br/>
@@ -37,7 +37,7 @@ class App extends Component {
             </div>
             <div key = {3}>
               <br/><br/>
-              <Text className = "IntroductionText">Currently living in <mark style={{background: '#BE3A34'}}><a href = "https://en.wikipedia.org/wiki/Toronto" style={{color: '#041E42'}}>Toronto</a></mark>.</Text>
+              <Text className = "IntroductionText">Currently living in <mark style={{background: '#041E42'}}><a href = "https://en.wikipedia.org/wiki/Toronto">Toronto, ON</a></mark>.</Text>
             </div>
           </QueueAnim>
         </Content>
